@@ -1,4 +1,4 @@
-    AGPLv3.0 License
+    AGPLv3 License
 
     Copyright (C) <2026>  <AndreyCamper>
 
