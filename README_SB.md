@@ -19,7 +19,7 @@ Space Station 14 это ремейк SS13, который работает на 
 На официальном сайте с [документацией](https://docs.spacestation14.io/) имеется вся необходимая информация о контенте SS14, движке, дизайне игры и многом другом. Также имеется много информации для начинающих разработчиков.
 
 ## Контрибьют
-Мы рады принять вклад от любого человека. Заходите в Discord, если хотите помочь. У нас есть [список проблем](https://github.com/space-syndicate/space-station-14-content/issues), которые нужно решить, и любой может за них взяться. Не бойтесь просить о помощи!
+Мы рады принять вклад от любого человека. Заходите в Discord, если хотите помочь. У нас есть [список проблем](https://github.com/AndreyCamper/SB/issues), которые нужно решить, и любой может за них взяться. Не бойтесь просить о помощи!
 Только убедитесь, что ваши изменения и PRы соответствуют [руководству по контрибьюту](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
 
 ## Сборка
@@ -30,12 +30,11 @@ Space Station 14 это ремейк SS13, который работает на 
 [Более подробная инструкция по запуску проекта.](https://docs.spacestation14.com/en/general-development/setup.html)
 
 ## Лицензия
-Весь код репозитория лицензирован под [APGLv3]
-Остальной код лицензирован под [MIT](https://github.com/space-syndicate/space-station-14/blob/master/LICENSE.TXT).
-Большинство ассетов лицензированы под [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), если не указано иное. Ассеты имеют свою лицензию и авторские права в файле метаданных. [Пример](https://github.com/space-syndicate/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
+Весь код репозитория лицензирован под [AGPLv3](https://github.com/AndreyCamper/SB/blob/master/LICENSE.TXT).
+Остальной код основан на проекте [Corvax](https://github.com/space-syndicate/space-station-14).
+Большинство ассетов лицензированы под [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), если не указано иное. Ассеты имеют свою лицензию и авторские права в файле метаданных. [Пример](https://github.com/AndreyCamper/SB/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
 Обратите внимание, что некоторые ассеты лицензированы на некоммерческой основе [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) или аналогичной некоммерческой лицензией, и их необходимо удалить, если вы хотите использовать этот проект в коммерческих целях.
 
 Project name: Space Battle (Космическая битва)
-Changes: README_SB.md
 Full Copyright: Copyright_SB_APGLv3.txt
