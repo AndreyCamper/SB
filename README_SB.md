@@ -12,7 +12,7 @@ Space Station 14 это ремейк SS13, который работает на 
 4. Закон - следование правилам и идеям независимого сообщества сс14.
 
 ## Ссылки
-[Наш Discord](https://discord.gg/s5h8nsHZ) | [Наша Вики](https://wiki.station14.ru) |
+[Наш Discord](https://discord.gg/rzB73U5nAS) | [Наша Вики]() |
 [Оф. Discord](https://discord.station14.ru) | [Оф. Вики](https://wiki.station14.ru) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Клиент без Steam](https://spacestation14.io/about/nightlies/) | [Основной репозиторий](https://github.com/space-wizards/space-station-14)
 
 ## Документация
