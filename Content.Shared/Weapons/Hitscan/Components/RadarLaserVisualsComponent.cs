@@ -1,4 +1,5 @@
-// #SB AndreyCamper
+// Copyright (c) 2026 <Space Battle> <AndreyCamper>
+// SPDX-License-Identifier: AGPL-3.0-or-later
 namespace Content.Shared.Weapons.Hitscan.Components;
 
 /// <summary>

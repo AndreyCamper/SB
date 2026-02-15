@@ -1,3 +1,5 @@
+# Copyright (c) 2026 <Space Battle> <AndreyCamper>
+# SPDX-License-Identifier: AGPL-3.0-or-later
 # Most of these have DO NOT MAP, since stations are completely unequipped to deal with ship combat + these are basically placeholder.
 
 - type: entity
