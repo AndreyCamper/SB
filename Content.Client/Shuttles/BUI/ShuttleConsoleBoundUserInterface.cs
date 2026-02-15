@@ -1,3 +1,5 @@
+// Copyright (c) 2026 <Space Battle> <AndreyCamper>
+// SPDX-License-Identifier: AGPL-3.0-or-later
 using Content.Client.Shuttles.UI;
 using Content.Shared.Shuttles.BUIStates;
 using Content.Shared.Shuttles.Events;

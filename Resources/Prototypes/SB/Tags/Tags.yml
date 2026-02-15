@@ -1,4 +1,5 @@
-﻿#SB AndreyCamper
+﻿# Copyright (c) 2026 <Space Battle> <AndreyCamper>
+# SPDX-License-Identifier: AGPL-3.0-or-later
 - type: Tag
   id: RadarVisible
 - type: Tag
@@ -7,11 +8,11 @@
   id: RadarVisibleRect
 #Lasers
 - type: Tag
-  id: RadarVisibleLaser       # Тэг, который будет висеть на мелком маркере
+  id: RadarVisibleLaser
 - type: Tag
-  id: RadarVisibleLaserHeavy  # Тэг, который будет висеть на тяжелом маркере
+  id: RadarVisibleLaserHeavy
 #Projectiles
 - type: Tag
-  id: CreateRadarMarker       # Вешаем на обычную лазерную пушку
+  id: CreateRadarMarker
 - type: Tag
-  id: CreateRadarMarkerHeavy  # Вешаем на шаттловую пушку (RedShuttleLaser)
+  id: CreateRadarMarkerHeavy
